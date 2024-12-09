@@ -33,7 +33,7 @@ const App = (props) => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React 12029 abcd xxxyy 
+          Learn React 12025  xxxyy 
           <dir> ttt {test2()} </dir>
           <b>Kích cỡ Test 652:</b> 
      
